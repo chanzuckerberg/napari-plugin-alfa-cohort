@@ -1,2 +1,12 @@
-# napari-plugin-alfa-cohort
-Repo for the CZI Imaging Team's napari plugin Alfa Cohort collaboration
+
+Project page for the napari plugin Alfa Cohort
+
+## Welcome
+
+## Projects
+
+## How We Work
+
+## Communication
+
+## Calendar
