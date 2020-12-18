@@ -1,0 +1,8 @@
+theme: jekyll-theme-primer
+
+title: napari plugin Alfa Cohort
+description: Materials related to the napari plugin Alfa Cohort collaboration
+
+plugins:
+  - jekyll-mentions
+  - jemoji
