@@ -1,6 +1,3 @@
-
-Project page for the napari plugin Alfa Cohort
-
 ## Welcome
 
 ## Projects
