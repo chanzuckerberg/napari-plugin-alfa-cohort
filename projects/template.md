@@ -1,4 +1,7 @@
-# Project Name
+---
+title: <Project Name>
+layout: page
+---
 
 - *Contributor(s)*: Firstname Lastname (email@domain.com)
 - *References*: Project Site, Github, Documentation, Publication
