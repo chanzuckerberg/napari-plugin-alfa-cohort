@@ -21,4 +21,5 @@ The Alfa Cohort is a collaboration among 8 leading Python-based image analysis t
 
 ## Resources
 
+- [napari plugin documentation](https://napari.org/docs/dev/plugins/index.html)
 - [Cookiecutter template for napari plugins](https://github.com/napari/cookiecutter-napari-plugin)
