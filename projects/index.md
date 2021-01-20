@@ -3,7 +3,7 @@
 
 # cellfinder
 
-# cellpose
+# [cellpose](cellpose)
 
 # nucleAIzer
 

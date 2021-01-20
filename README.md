@@ -6,7 +6,7 @@ The Alfa Cohort is a collaboration among 8 leading Python-based image analysis t
 
 - Allen Cell Segmenter
 - cellfinder
-- cellpose
+- [cellpose](projects/cellpose)
 - nucleAIzer
 - Ilastik
 - splinedist
