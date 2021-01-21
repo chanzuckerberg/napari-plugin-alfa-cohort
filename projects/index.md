@@ -13,7 +13,7 @@ layout: page
 
 # Ilastik
 
-# splinedist
+# [splinedist](projects/splinedist)
 
 # stardist
 
