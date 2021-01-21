@@ -17,4 +17,4 @@ layout: page
 
 # stardist
 
-# YAPiC
+# [YAPiC](projects/yapic)
