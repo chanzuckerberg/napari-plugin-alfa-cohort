@@ -3,8 +3,8 @@ title: stardist
 layout: page
 ---
 
-- *Contributor(s)*: Firstname Lastname (email@domain.com)
-- *References*: Project Site, Github, Documentation, Publication
+- *Contributor(s)*: Uwe Schmidt (@uschmidt83), Martin Weigert (@maweigert)
+- *References*: [Github](https://github.com/mpicbg-csbd/stardist), [Publications](https://github.com/mpicbg-csbd/stardist#how-to-cite)
 
 ## Purpose
 
