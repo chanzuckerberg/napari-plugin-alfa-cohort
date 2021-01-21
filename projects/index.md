@@ -15,6 +15,6 @@ layout: page
 
 # splinedist
 
-# stardist
+# [stardist](projects/stardist)
 
 # YAPiC
