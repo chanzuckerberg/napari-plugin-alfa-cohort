@@ -6,3 +6,7 @@ description: Materials related to the napari plugin Alfa Cohort collaboration
 plugins:
   - jekyll-mentions
   - jemoji
+
+header_pages:
+  - README.md
+  - projects/index.md

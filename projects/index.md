@@ -1,18 +1,20 @@
+---
+title: projects
+layout: page
+---
 
-# Projects
+# Allen Cell Segmenter
 
-## Allen Cell Segmenter
+# cellfinder
 
-## cellfinder
+# [cellpose](projects/cellpose)
 
-## [cellpose](projects/cellpose)
+# nucleAIzer
 
-## nucleAIzer
+# Ilastik
 
-## Ilastik
+# splinedist
 
-## splinedist
+# stardist
 
-## stardist
-
-## YAPiC
+# YAPiC
