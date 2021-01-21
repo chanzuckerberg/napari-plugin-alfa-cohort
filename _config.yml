@@ -10,3 +10,5 @@ plugins:
 header_pages:
   - README.md
   - projects/index.md
+  - meetings/index.md
+  - resources/index.md
