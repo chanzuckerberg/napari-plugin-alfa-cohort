@@ -14,7 +14,7 @@ Jan 28, 2021. [8am PT / 11am ET / 4pm GMT / 5pm CET](https://www.starts-at.com/e
 *Agenda*:
 
 - 0:00 - Welcome (@neuromusic)
-- 0:10 - Team Presentations
+- 0:10 - Team Presentations (3 minutes per team)
 - 0:35 - UXR Read-out (@LCObus)
 - 0:45 - Napari Overview (@sofroniewn)
 - 0:55 - Building a Plugin (@tlambert03)
