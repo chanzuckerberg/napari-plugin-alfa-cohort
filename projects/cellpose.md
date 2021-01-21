@@ -17,7 +17,7 @@ Segmentation of cells is an important step in a variety of biological processing
 ### Why does this matter to you and your professional goals and responsibilities?
 Providing biologists’ accessibility to complex tools is one of my major professional responsibilities as an algorithm developer.
 
-### Goals
+## Goals
 > What would you like to accomplish during the Alfa Cohort collaboration?
 
 1. Run 2D & 3D pre-trained cellpose in napari
