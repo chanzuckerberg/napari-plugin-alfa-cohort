@@ -1,16 +1,18 @@
 
-# Allen Cell Segmenter
+# Projects
 
-# cellfinder
+## Allen Cell Segmenter
 
-# [cellpose](cellpose)
+## cellfinder
 
-# nucleAIzer
+## [cellpose](projects/cellpose)
 
-# Ilastik
+## nucleAIzer
 
-# splinedist
+## Ilastik
 
-# stardist
+## splinedist
 
-# YAPiC
+## stardist
+
+## YAPiC
