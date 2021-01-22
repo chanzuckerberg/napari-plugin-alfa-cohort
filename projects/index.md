@@ -9,7 +9,7 @@ layout: page
 
 # [cellpose](cellpose)
 
-# nucleAIzer
+# [nucleAIzer](projects/nucleaizer)
 
 # [Ilastik](ilastik)
 
