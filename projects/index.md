@@ -11,7 +11,7 @@ layout: page
 
 # nucleAIzer
 
-# Ilastik
+# [Ilastik](projects/ilastik)
 
 # splinedist
 
