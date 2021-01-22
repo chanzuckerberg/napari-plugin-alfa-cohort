@@ -67,6 +67,6 @@ A biologist will be able to
 |-------------	|----------------------	|---------------------------------------------------------------------------	|--------	|
 | 2020-02-01  	| Isolated environment 	| Algorithm running isolated from brainglobe environment                    	|    📝   	|
 | 2020-03-01  	| Napari integration   	| Algorithm running on napari image layers (rather than only tiffs on disk) 	|    📝   	|
-| 2020-04-01  	| Retraining           	| Classification model able to be retrained within napari                   	|    📝   	|
-| 2020-04-15  	| Application          	| Use on >1 biological application                                          	|    📝   	|
+| 2020-04-15  	| Retraining           	| Classification model able to be retrained within napari                   	|    📝   	|
+| 2020-04-21  	| Application          	| Use on >1 biological application                                          	|    📝   	|
 | 2020-04-28  	| Demo day             	| Demo final cellfinder plugin                                              	|    📝   	|
