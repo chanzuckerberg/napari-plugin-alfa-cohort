@@ -3,7 +3,7 @@ title: Ilastik
 layout: page
 ---
 
-- *Contributor(s)*: Emil Melnikov (@emilmelnikov), Dominik Kutra (@k-dominik)
+- *Contributor(s)*: Emil Melnikov (@emilmelnikov), Dominik Kutra (@k-dominik), Anna Kreshuk (@akreshuk)
 - *References*: [Project Site](https://www.ilastik.org/), [Github](https://github.com/ilastik),[Publication](https://www.nature.com/articles/s41592-019-0582-9)
 
 ## Purpose
