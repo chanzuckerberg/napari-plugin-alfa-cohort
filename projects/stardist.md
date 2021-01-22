@@ -11,9 +11,7 @@ layout: page
 > Describe the problem you are trying to solve by packaging your tool as a napari plugin in 1-2 sentences.
 I should be able to read this alone and communicate the value to someone else.
 
-### Why does this matter to biologists?
-
-### Why does this matter to you and your professional goals and responsibilities?
+This plugin will allow users to segment round objects (such as cell nuclei) in 2D microscopy images by providing a prediction interface for pretrained/custom trained *stardist* networks
 
 ## Goals
 > What would you like to accomplish during the Alfa Cohort collaboration?
