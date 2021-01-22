@@ -5,7 +5,7 @@ layout: page
 
 # Allen Cell Segmenter
 
-# cellfinder
+# [cellfinder](projects/cellfinder)
 
 # [cellpose](projects/cellpose)
 
