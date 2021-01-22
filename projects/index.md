@@ -3,7 +3,7 @@ title: Projects
 layout: page
 ---
 
-# Allen Cell Segmenter
+# [Allen Cell Segmenter](projects/allen-cell-segmenter)
 
 # cellfinder
 
