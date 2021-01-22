@@ -5,16 +5,16 @@ layout: page
 
 # Allen Cell Segmenter
 
-# [cellfinder](projects/cellfinder)
+# [cellfinder](cellfinder)
 
-# [cellpose](projects/cellpose)
+# [cellpose](cellpose)
 
 # nucleAIzer
 
 # Ilastik
 
-# [splinedist](projects/splinedist)
+# [splinedist](splinedist)
 
-# [stardist](projects/stardist)
+# [stardist](stardist)
 
-# [YAPiC](projects/yapic)
+# [YAPiC](yapic)
