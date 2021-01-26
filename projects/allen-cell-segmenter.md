@@ -1,5 +1,5 @@
 ---
-title: Allen Cell Segmenter
+title: Allen Cell and Structure Segmenter
 layout: page
 ---
 
@@ -11,16 +11,20 @@ layout: page
 > Describe the problem you are trying to solve by packaging your tool as a napari plugin in 1-2 sentences.
 I should be able to read this alone and communicate the value to someone else.
 
+Making a large number of 3D intracelluar structure segmentation algorithms in Allen Cell and Structure Segmenter accessible and easy to tweak for users at any level.
+
 ### Why does this matter to biologists?
+The large collection of fluorescently-labeled cell lines from the Allen Cell Collection fosters the development of a large set of image processing workflows that serves as a good resource for biologists to use in many different applications.
 
 ### Why does this matter to you and your professional goals and responsibilities?
+The development of this plugin will enable a broader community of scientists to perform 3D segmentation on their images and aligns with the mission of the [Allen Institute for Cell Science](https://allencell.org) for open science.
 
 ## Goals
 > What would you like to accomplish during the Alfa Cohort collaboration?
 
 1. Make “lookup table” of segmentation algorithms available. Load workflow & tweak parameters based on instant feedback from the viewer. Target audience: Anyone
 2. [Stretch] For more advanced user who knows a bit about the algorithms, they have the freedom to manipulate the workflow. Freedom to use modules.
-3. [Ultra Stretch] Integrating with ML model. Curation of pass/fail (not painting). Use case: different areas of image may need different algorithm. Then a set of training data is ready for training.
+3. [Ultra Stretch] Integrating with ML model. Curation using the merging or sorting curator (see paper for details). Use case: different areas of image may need different algorithm. Then a set of training data is ready for training.
 
 
 ### Non-goals
@@ -36,12 +40,12 @@ I should be able to read this alone and communicate the value to someone else.
 
 A biologist will be able to
 1. Load some 3D data
-2. Select a workflow which is tuned for a particular cell structure
+2. Check the workflow look-up table where each workflow is tuned for a particular structure. Pick the one showing the most similar morphology to user's data
 3. Apply the workflow and see results
 4. Tweak parameters for each step in the workflow based on instant feedback from the viewer
 5. Save the parameters + workflow
 6. Apply the parameters + workflow to larger set of images
-7. Analyze the results to extract statistics of cell structures
+7. [outside of napari] Analyze the results to extract statistics of cell structures
 
 [Stretch] A biologist will be able to
 1. Load and apply a workflow (above 1 through 4)
