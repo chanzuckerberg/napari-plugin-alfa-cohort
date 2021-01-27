@@ -60,6 +60,7 @@ A biologist will be able to
 5. Create new spline models to delineate missed objects (TBD: spawn default circle shape or interpolate image content in a bounding box?)
 6. Save results both as a mask and in spline format for further analysis or further editing
 
+[as-is data journey map](https://app.mural.co/t/czi5873/m/czi5873/1611168941434/e098568c6c39323ffce7549ca09e79b07832aeb3)
 
 ## Plan
 
