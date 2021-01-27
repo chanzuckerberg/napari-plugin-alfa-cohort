@@ -42,7 +42,7 @@ A biologist will be able to
 5. View results (masks / label image)
 6. Aggregation of results. Export labeled images.
 
-
+[as-is journey map](https://app.mural.co/t/czi5873/m/czi5873/1609957695133/8b5e007c0c934ff6cc32dba21138e3d4647b2cbd)
 ## Plan
 
 ### Milestones
