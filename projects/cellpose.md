@@ -54,6 +54,8 @@ A savvy biologist will be able to
 1. View results
 1. Apply trained model as above
 
+[as-is data journey map](https://app.mural.co/t/czi5873/m/czi5873/1607613626213/00c016f4e5888b7a0f2a72c0b15d09eb510ba40c)
+
 
 ## Plan
 
