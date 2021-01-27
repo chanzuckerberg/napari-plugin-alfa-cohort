@@ -50,6 +50,7 @@ run a training with the YAPiC command line tool. YAPiC reads pixels and labels f
 7. Open the Keras model file and apply the model to the image set.
 8. For each output class of the model, a new pixel channel is added to the image set. The pixel intensities reflect the class probability (the classifier output).
 
+[as-is data journey](https://app.mural.co/t/czi5873/m/czi5873/1609997567553/4fe7da9289945773f3728b76da65c500e7c7ec0b)
 
 ## Plan
 
