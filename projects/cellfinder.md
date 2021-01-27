@@ -57,6 +57,8 @@ A biologist will be able to
 3. Save outputs for further analysis
 4. Train classification model and save trained model for offline analysis
 
+[as-is data journey map](https://app.mural.co/t/czi5873/m/czi5873/1607371500209/29a3b89046bc72883e18786888255bbd316822ef)
+
 ## Plan
 
 ### Milestones
