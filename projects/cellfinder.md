@@ -1,5 +1,5 @@
 ---
-title: <Project Name>
+title: cellfinder
 layout: page
 ---
 
