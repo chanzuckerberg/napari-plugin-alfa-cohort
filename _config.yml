@@ -12,3 +12,9 @@ header_pages:
   - projects/index.md
   - meetings/index.md
   - resources/index.md
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
