@@ -23,7 +23,7 @@ layout: page
 # Slides
 
 - [Alfa Cohort Overview & UXR read-out](https://drive.google.com/file/d/1vAUWUFlCZ3wNjmftTqFC9h0x6IZ1RLEp/view?usp=sharing) by @neuromusic & @LCObus
-- Napari Overview by @sofroniewn
+- [Napari Overview](https://drive.google.com/file/d/1eSE_7cLrHCKLT4AekDFugGMTzwurz8TY/view?usp=sharing) by @sofroniewn
 - [Napari Plugins](https://www.dropbox.com/s/fzqysx1gadn1azn/napari_plugins.pdf?dl=0) by @tlambert03
 
 # Group "photo"
