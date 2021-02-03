@@ -28,4 +28,4 @@ layout: page
 
 # Group "photo"
 
-![Group "photo" of kickoff meeting attendees.]({{ "/assets/img/alfa-cohort-kickoff-group-photo.png" | relative_url }}}})
+![Group "photo" of kickoff meeting attendees.]({{ "/assets/img/alfa-cohort-kickoff-group-photo.png" | relative_url }})
