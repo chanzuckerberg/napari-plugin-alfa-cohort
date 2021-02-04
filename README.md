@@ -5,3 +5,6 @@ The Alfa Cohort is a collaboration among 8 leading Python-based image analysis t
 - [Projects](projects)
 - [Meetings](meetings)
 - [Resources](resources)
+
+
+> We at CZI hold ourselves accountable to these [Community Participation Guidelines](https://chanzuckerberg.com/science/our-values-approach/#community-participation-guidelines) and expect all those who participate in CZI communities to do the same.
