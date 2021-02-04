@@ -1,4 +1,7 @@
-
+---
+layout: post
+title:  "Week 1 Update"
+---
 
 Thank you all for attending the kickoff meeting last week and for sharing your plans! We have slides from the meeting posted on the Alfa Cohort project site. I'll continue to update the site with resources and links and, of course, pull requests are always welcome :D
 
