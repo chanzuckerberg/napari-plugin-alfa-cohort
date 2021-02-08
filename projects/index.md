@@ -3,7 +3,7 @@ title: Projects
 layout: page
 ---
 
-# [Allen Cell and Structure Segmenter](projects/allen-cell-segmenter)
+# [Allen Cell and Structure Segmenter](allen-cell-segmenter)
 
 # [cellfinder](cellfinder)
 
@@ -11,7 +11,7 @@ layout: page
 
 # nucleAIzer
 
-# [Ilastik](projects/ilastik)
+# [Ilastik](ilastik)
 
 # [splinedist](splinedist)
 
