@@ -11,18 +11,14 @@ layout: page
 > Describe the problem you are trying to solve by packaging your tool as a napari plugin in 1-2 sentences.
 I should be able to read this alone and communicate the value to someone else.
 
-### Why does this matter to biologists?
-
-### Why does this matter to you and your professional goals and responsibilities?
+- Use Napari to detect the objects in the opened image using the NucleAIzer model.
+- Add the functionality to Napari to train a new nucleAIzer model on your own dataset using transfer learning.
 
 ## Goals
 > What would you like to accomplish during the Alfa Cohort collaboration?
 
-1. Offer out-of-the-box pre-trained model (one of 5-10) for users to apply to their own data
-2. [stretch] Enable users to train on their own data
-  - from scratch
-  - initialized with pre-trained data (primary canonical dataset & 5-10 pre-trained)
-
+1. Use Napari to detect the objects in the opened image using the NucleAIzer model.
+2. Add the functionality to Napari to train a new nucleAIzer model on your own dataset using transfer learning.
 
 ## Scope
 
