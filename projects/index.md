@@ -27,6 +27,7 @@ layout: page
 # splinedist
 
 - [Project Plan](splinedist)
+- [Code Repository](https://github.com/uhlmanngroup/napari-splineit)
 
 # stardist
 
