@@ -16,9 +16,9 @@ layout: page
 
 - [Project Plan](cellpose)
 
-# [nucleAIzer](projects/nucleaizer)
+# nucleAIzer
 
-- [Project Plan]
+- [Project Plan](nucleaizer)
 
 # Ilastik
 
