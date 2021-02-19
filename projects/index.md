@@ -16,7 +16,7 @@ layout: page
 
 - [Project Plan](cellpose)
 
-# nucleAIzer
+# [nucleAIzer](projects/nucleaizer)
 
 - [Project Plan]
 
