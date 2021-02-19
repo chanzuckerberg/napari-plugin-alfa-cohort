@@ -3,20 +3,35 @@ title: Projects
 layout: page
 ---
 
-# [Allen Cell and Structure Segmenter](allen-cell-segmenter)
+# Allen Cell and Structure Segmenter
 
+- [Project Plan](allen-cell-segmenter)
 - [Code Repository](https://github.com/AllenCell/napari-aicssegmentation)
 
-# [cellfinder](cellfinder)
+# cellfinder
 
-# [cellpose](cellpose)
+- [Project Plan](cellfinder)
+
+# cellpose
+
+- [Project Plan](cellpose)
 
 # nucleAIzer
 
-# [Ilastik](ilastik)
+- [Project Plan]
 
-# [splinedist](splinedist)
+# Ilastik
 
-# [stardist](stardist)
+- [Project Plan](ilastik)
 
-# [YAPiC](yapic)
+# splinedist
+
+- [Project Plan](splinedist)
+
+# stardist
+
+- [Project Plan](stardist)
+
+# YAPiC
+
+- [Project Plan](yapic)
