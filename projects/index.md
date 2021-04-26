@@ -36,3 +36,5 @@ layout: page
 # YAPiC
 
 - [Project Plan](yapic)
+- Plugin 1: [napari-hdf5-labels-io](https://github.com/yapic/napari-hdf5-labels-io)
+- Plugin 2: [napari-yapic-prediction](https://github.com/yapic/napari-yapic-prediction)
