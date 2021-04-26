@@ -5,6 +5,8 @@ layout: page
 
 - *Contributor(s)*: Carsen Stringer (@carsen-stringer)
 - *References*: [Project Site](http://www.cellpose.org/), [Github](https://github.com/MouseLand/cellpose), [Documentation](https://cellpose.readthedocs.io/en/latest/outputs.html), [Publication](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v2)
+- *Plugin*: [cellpose-napari](https://github.com/mouseland/cellpose-napari)
+
 
 ## Purpose
 
