@@ -15,6 +15,7 @@ layout: page
 # cellpose
 
 - [Project Plan](cellpose)
+- [Code repository](https://github.com/mouseland/cellpose-napari)
 
 # nucleAIzer
 
