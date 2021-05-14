@@ -55,3 +55,7 @@ A biologist will be able to
 |             	| Simple stardist UX               	| Create a UX for single timepoint/single channel application of pretrained stardist models on already opened napari images  	|    📝   	|
 |             	| Final stardist UX                	| Add timelapse/multichannel modality, parameter adjustment, results export                                                  	|    📝   	|
 | 2021-04-28  	| Demo day                         	| Demo final plugin                                                                                                          	|    📝   	|
+
+## Outcomes
+
+- [stardist-napari](https://github.com/stardist/stardist-napari)
