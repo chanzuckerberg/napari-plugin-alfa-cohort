@@ -70,3 +70,8 @@ A biologist will be able to
 | 2020-04-15  	| Retraining           	| Classification model able to be retrained within napari                   	|    📝   	|
 | 2020-04-21  	| Application          	| Use on >1 biological application                                          	|    📝   	|
 | 2020-04-28  	| Demo day             	| Demo final cellfinder plugin                                              	|    📝   	|
+
+## Outcomes
+
+- [cellfinder-napari](https://github.com/brainglobe/cellfinder-napari)
+- [Twitter Announcement](https://twitter.com/brain_globe/status/1389524925430521862)
