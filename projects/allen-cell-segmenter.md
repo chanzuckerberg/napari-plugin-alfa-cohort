@@ -65,3 +65,7 @@ A biologist will be able to
 |             	|           	|                   	|        	|
 |             	|           	|                   	|        	|
 | 2020-04-28  	| Demo day  	| Demo final plugin 	|    📝   	|
+
+## Outcomes
+
+- [napari-aicssegmentation](https://github.com/AllenCell/napari-aicssegmentation)
