@@ -35,6 +35,11 @@ layout: page
 # Ilastik
 
 - [Project Plan](ilastik)
+- napari-ilastik (
+  [github](https://github.com/ilastik/napari-ilastik),
+  pypi
+  )
+
 
 # splinedist
 
