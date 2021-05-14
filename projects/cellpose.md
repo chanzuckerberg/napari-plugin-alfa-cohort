@@ -66,3 +66,8 @@ A savvy biologist will be able to
 |             	|           	|                   	|        	|
 |             	|           	|                   	|        	|
 | 2020-04-28  	| Demo day  	| Demo final plugin 	|    📝   	|
+
+## Outcomes
+
+- [cellpose-napari](https://github.com/mouseland/cellpose-napari)
+- [Twitter announcement](https://twitter.com/computingnature/status/1389037192375410688)
