@@ -72,3 +72,7 @@ A biologist will be able to
 |             	|           	|                   	|        	|
 |             	|           	|                   	|        	|
 | 2021-04-28  	| Demo day  	| Demo final plugin 	|    📝   	|
+
+## Outcomes
+
+- [napari-splineit](https://github.com/uhlmanngroup/napari-splineit)
